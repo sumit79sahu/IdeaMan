@@ -1,0 +1,150 @@
+*
+{
+    box-sizing: border-box;
+    /* overflow: hidden; */
+}
+.loginsignup
+{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-image:url('E:\MERN\IdeaMan\view\user\src\img\ilya-pavlov-OqtafYT5kTw-unsplash.jpg');
+    object-fit: cover;
+    background-position:cover;
+    background-size:cover;
+}
+.loginsignupitem
+{
+    width: 30vw;
+    height: 80vh;
+    margin: auto;
+    background-color: rgba(189, 198, 207, 0.966);
+    font-size:x-large;
+
+}
+.item
+{
+    width: 50%;
+    margin: auto;
+}
+.login
+{
+    width: 80%;
+    /* padding: 2px; */
+    font-size: large;
+    margin: auto;
+    /* align-items: center; */
+}
+.signup
+{
+    width: 80%;
+    /* padding: 2px; */
+    font-size: large;
+    margin: auto;
+    /* align-items: center; */
+}
+.sidebar
+{
+    /* position:fixed; */
+    /* top:20px; */
+    /* border: 2px solid red; */
+    margin-top: 15px;
+    width: 15vw;
+    background-color:rgb(182, 180, 180);
+}
+.yourprofile
+{
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid red; */
+    background-color: rgb(224, 224, 224);
+    /* margin-bottom: 15px; */
+}
+.about
+{
+    margin-top: 15px;
+    display: flex;
+    width: 78.8vw;
+    height: 42vh;
+}
+.contactdetails
+{
+    margin-top: 15px;
+    display: flex;
+    width: 80vw;
+    height: 32vh;  
+    /* border: 2px solid red;   */
+}
+.address
+{
+    margin-top: 15px;
+    display: flex;
+    width: 80vw;
+    height: 44vh;  
+    /* border: 2px solid red;   */
+}
+.educationdetails
+{
+    margin-top: 15px;
+    display: flex;
+    width: 80vw;
+    height: 40vh;  
+    /* border: 2px solid red;   */
+}
+.educationdetailsitem1
+{
+    width: 93.5%;
+    margin-bottom: 20px;
+}
+.addressitem1
+{
+    width: 93.5%;
+}
+.contactdetailsitem1
+{
+
+    /* border: 2px solid blue; */
+     width: 93.5%;
+}
+.aboutitem1
+{
+    border-radius:4px;
+    height: 303.062px;
+    width: 302.45px;
+}
+.aboutitem2
+{
+    width: 70%;
+}
+.sidebaritem1
+{
+    position: fixed;
+    width: 15vw;
+    /* border: 2px solid red; */
+}
+.idea
+{
+    display: flex;
+    justify-content: center;
+}
+.ideaitem
+{
+    margin-top:2%;
+    width: 30%;
+}
+.home{
+    /* border: 2px solid red; */
+    background-color: rgb(224, 224, 224);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 15px;
+}
+.userinformation
+{
+    display: flex;
+    justify-content: center;
+    /* border: 2px solid red; */
+    background-color: rgb(224, 224, 224);
+}

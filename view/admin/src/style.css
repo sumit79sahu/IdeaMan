@@ -1,0 +1,88 @@
+
+.state{
+    display: flex;
+    justify-content: center;
+}
+.city{
+    display: flex;
+    justify-content: center;
+}
+.category{
+    display: flex;
+    justify-content: center;
+}
+.subcategory
+{
+    display: flex;
+    justify-content: center;
+}
+.dashboard
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+.login
+{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-image:url('E:\MERN\IdeaMan\view\user\src\img\ilya-pavlov-OqtafYT5kTw-unsplash.jpg');
+    object-fit: cover;
+    background-position:cover;
+    background-size:cover;
+}
+
+.dashboarditem
+{
+    margin-top:4% ;
+}
+.stateitem
+{
+    margin-top:2%;
+    width: 30%;
+
+}
+.cityitem
+{
+    margin-top:2%;
+    width: 30%;
+    /* border:2px solid red; */
+
+}
+.categoryitem
+{
+    margin-top:2%;
+    width: 30%;
+
+}
+.subcategoryitem
+{
+    margin-top:2%;
+    width: 30%;
+
+}
+.loginitem
+{
+    width: 30vw;
+    height: 80vh;
+    margin: auto;
+    background-color: rgba(189, 198, 207, 0.966);
+    font-size:large;
+
+}
+.heading
+{
+    /* border: 2px solid red; */
+    margin-top: 30px;
+    text-align: center;
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif
+}
+.logincomponent
+{
+    /* border: 2px solid red ; */
+    margin: auto;
+    padding-top:20px; ;
+    width:20vw;
+}
